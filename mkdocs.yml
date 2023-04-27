@@ -1,7 +1,6 @@
 site_name: wrk
 nav: 
     -  gym:
-        - CF.md
         - MUTC.md
 extra_css:
     - res/extra.css
@@ -117,7 +116,7 @@ extra:
           link: /zh/
           lang: zh
 
-    homepage: /CF/
+    homepage: /
 
     #consent:
     #    title: cookie
